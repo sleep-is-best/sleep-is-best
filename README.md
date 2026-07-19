@@ -106,17 +106,6 @@ Status : ONLINE
 
 ---
 
-# 🐍 Contribution Snake
-
-> **ملاحظة:** لن يعمل هذا القسم إلا إذا قمت بإعداد GitHub Action في مستودعك لتوليد ملف `github-contribution-grid-snake-dark.svg`.
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sleep-is-best/sleep-is-best/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
 
 # 👾 Pixel Animation
 
