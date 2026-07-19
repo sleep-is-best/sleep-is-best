@@ -8,7 +8,7 @@
 
 ---
 
-# 💻 Code Playground
+# 💻 Code 
 
 <div align="center">
 
@@ -83,7 +83,7 @@ Status : ONLINE
 
 ---
 
-# ⚡ Coding Animation
+# ⚡ Coding 
 
 <div align="center">
 
@@ -94,7 +94,7 @@ Status : ONLINE
 ---
 
 
-# 👾 Pixel Animation
+# 👾 
 
 <div align="center">
 
